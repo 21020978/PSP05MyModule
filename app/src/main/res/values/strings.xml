@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PSP04MyModule</string>
+    <string name="fourthmod">Fourth Module</string>
+    <string name="firstmod">First Module</string>
+    <string name="secondmod">Second Module</string>
+    <string name="fifthmod">FifthMod</string>
+    <string name="thirdmod">thirdmod</string>
+    <string name="returnback">Return Back</string>
+</resources>

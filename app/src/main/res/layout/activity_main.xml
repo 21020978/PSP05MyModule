@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/fifthMod"
+            android:layout_width="match_parent"
+            android:layout_height="680dp"
+            android:layout_weight="1"
+            android:background="@color/teal_700"
+            android:gravity="center"
+            android:text="@string/firstmod" />
+
+        <TextView
+            android:id="@+id/fourthMod"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#4CAF50"
+            android:gravity="center"
+            android:text="@string/secondmod" />
+
+        <TextView
+            android:id="@+id/thirdMod"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#8BC34A"
+            android:gravity="center"
+            android:text="@string/thirdmod" />
+
+        <TextView
+            android:id="@+id/secondMod"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#CDDC39"
+            android:gravity="center"
+            android:shadowColor="#1FA124"
+            android:text="@string/fourthmod" />
+
+        <TextView
+            android:id="@+id/firstMod"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#FFC107"
+            android:gravity="center"
+            android:text="@string/fifthmod" />
+    </LinearLayout>
+
+
+
+</LinearLayout>
